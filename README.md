@@ -1,4 +1,4 @@
-## tinder_clone
+# tinder_clone
 
-# UI clonado, feito com Flutter/Dart
+## UI clonado, feito com Flutter/Dart
 
